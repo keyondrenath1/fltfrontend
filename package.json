@@ -1,0 +1,23 @@
+{
+  "name": "fixerlt_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@reduxjs/toolkit": "^1.5.1",
+    "axios": "^0.21.1",
+    "material-ui-phone-number": "^2.2.6",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-phone-input-2": "^2.13.9",
+    "react-phone-number-input": "^3.1.10",
+    "react-redux": "^7.2.3"
+  }
+}
